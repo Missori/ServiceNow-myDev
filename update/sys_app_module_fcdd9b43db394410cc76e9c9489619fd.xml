@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Application for git">c0dd9b43db394410cc76e9c948961911</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Application for git Table</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_83788_git_application_for_git_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_83788_git.user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-23 10:39:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fcdd9b43db394410cc76e9c9489619fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Application for git Table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Application for git" source="x_83788_git">40dd53c3dbf54410cc76e9c9489619b3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Application for git">40dd53c3dbf54410cc76e9c9489619b3</sys_scope>
+        <sys_update_name>sys_app_module_fcdd9b43db394410cc76e9c9489619fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-23 10:39:16</sys_updated_on>
+        <timeline_page/>
+        <title>Application for git Table</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
