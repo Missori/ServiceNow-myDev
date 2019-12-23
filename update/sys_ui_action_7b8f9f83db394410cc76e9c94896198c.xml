@@ -28,7 +28,8 @@
         <name>New button</name>
         <onclick/>
         <order>100</order>
-        <script><![CDATA[gs.addInfoMessage("Правила оформления JavaScript-кода");]]></script>
+        <script><![CDATA[gs.addInfoMessage("Правила оформления JavaScript-кода");
+gs.addErrorMessage("No Rules");]]></script>
         <show_insert>true</show_insert>
         <show_multiple_update>false</show_multiple_update>
         <show_query>false</show_query>
@@ -39,7 +40,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>7b8f9f83db394410cc76e9c94896198c</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>New button</sys_name>
         <sys_overrides/>
         <sys_package display_value="Application for git" source="x_83788_git">40dd53c3dbf54410cc76e9c9489619b3</sys_package>
@@ -47,7 +48,7 @@
         <sys_scope display_value="Application for git">40dd53c3dbf54410cc76e9c9489619b3</sys_scope>
         <sys_update_name>sys_ui_action_7b8f9f83db394410cc76e9c94896198c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-12-23 10:48:08</sys_updated_on>
+        <sys_updated_on>2019-12-23 10:50:38</sys_updated_on>
         <table>x_83788_git_application_for_git_table</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>
